@@ -16,4 +16,4 @@ Untuk lebih lengkapnya dapat diliat melalui link : https://instaloader.github.io
 - Buka IDLE Python
 - Project dengan nama file 'AFNY, NILATIL_Assignment3' terdapat titik-titik yang harus di isi sebelum melakukan 'Run Module' dengan mengikuti arahan komen dalam project
 - Kemudian 'Run Module', tunggu hingga run selesai
-- Terakhir anda akan mendapatkan data dalam bentuk CSV setelah semua data terkumpul (file dengan nama 'data_instagram_ilkomunj18_20191006_203619' merupakan hasil run yang telah kami lakukan sebelumnya)
+- Terakhir anda akan mendapatkan data dalam bentuk CSV setelah semua data terkumpul (file dengan nama 'data_instagram_ilkomunj18_20191006_203619' merupakan hasil run yang telah kami lakukan sebelumnya// Jika tampilan terkesan sulit dibaca, dapat di unduh melalui nama file 'Link GDrive CSV')
